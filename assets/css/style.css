@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  padding-top: 1rem;
+  display: grid;
+  place-content: center;
+  gap: 1.5rem;
+
+  background-color: rgba(228, 193, 36, 0.7);
+}
+
+section {
+  padding: 0.25rem;
+  border: 1px solid rgb(145, 118, 0);
+}
+
+h1 {
+  text-align: center;
+  border-bottom: 1px solid rgb(145, 118, 0);
+}
+
+div {
+  margin-top: 0.5rem;
+}
+
+
